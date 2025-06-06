@@ -3,7 +3,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { cn } from "@/lib/utils";
 import { Heart, ShoppingBag, Eye } from "lucide-react";
-import Button from "./Button";
+import Button from "./button";
 
 interface ProductCardProps {
   id: string;
