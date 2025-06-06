@@ -11,7 +11,7 @@ import {
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import ProductCard from "@/components/ui/ProductCard";
-import Button from "@/components/ui/Button";
+import Button from "@/components/ui/button";
 import { products, Product } from "@/lib/data";
 
 type FilterState = {

@@ -6,7 +6,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import ProductCard from "@/components/ui/ProductCard";
 import FeaturedProduct from "@/components/ui/FeaturedProduct";
-import Button from "@/components/ui/Button";
+import Button from "@/components/ui/button";
 import { getFeaturedProducts, getNewArrivals, getSaleProducts } from "@/lib/data";
 
 const Index = () => {

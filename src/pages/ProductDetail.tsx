@@ -18,7 +18,7 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
-import Button from "@/components/ui/Button";
+import Button from "@/components/ui/button";
 import ProductCard from "@/components/ui/ProductCard";
 import { useCart } from "@/hooks/useCart";
 import { getProductById, getProductsByCategory, Product } from "@/lib/data";
